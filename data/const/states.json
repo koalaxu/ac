@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 0
+  },
+  {
+    "name": "周",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 1
+  },
+  {
+    "name": "齐",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姜",
+    "race": 0,
+    "color_index": 2
+  },
+  {
+    "name": "鲁",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 3
+  },
+  {
+    "name": "燕",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 4
+  },
+  {
+    "name": "晋",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 5
+  },
+  {
+    "name": "秦",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "赢",
+    "race": 0,
+    "color_index": 6
+  },
+  {
+    "name": "楚",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "芈",
+    "race": 0,
+    "color_index": 7
+  },
+  {
+    "name": "郑",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 8
+  },
+  {
+    "name": "宋",
+    "official_name": "",
+    "alias": "",
+    "nobility": "公",
+    "family_name": "子",
+    "race": 0,
+    "color_index": 9
+  },
+  {
+    "name": "卫",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "吴",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 11
+  },
+  {
+    "name": "越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "",
+    "race": 1,
+    "color_index": 12
+  },
+  {
+    "name": "虢",
+    "official_name": "",
+    "alias": "东虢",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 13
+  },
+  {
+    "name": "虢",
+    "official_name": "",
+    "alias": "西虢",
+    "nobility": "公",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 14
+  },
+  {
+    "name": "虞",
+    "official_name": "",
+    "alias": "",
+    "nobility": "公",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "梁",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "赢",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "陈",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "妫",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "蔡",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 18
+  },
+  {
+    "name": "许",
+    "official_name": "",
+    "alias": "",
+    "nobility": "男",
+    "family_name": "姜",
+    "race": 0,
+    "color_index": 17
+  },
+  {
+    "name": "沈",
+    "official_name": "",
+    "alias": "聃",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "曹",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 21
+  },
+  {
+    "name": "郭",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "任",
+    "race": 0,
+    "color_index": 22
+  },
+  {
+    "name": "宿",
+    "official_name": "",
+    "alias": "",
+    "nobility": "男",
+    "family_name": "风",
+    "race": 0,
+    "color_index": 23
+  },
+  {
+    "name": "徐",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "赢",
+    "race": 2,
+    "color_index": 24
+  },
+  {
+    "name": "邳",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "任",
+    "race": 0,
+    "color_index": 25
+  },
+  {
+    "name": "郯",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "己",
+    "race": 3,
+    "color_index": 26
+  },
+  {
+    "name": "钟离",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "赢",
+    "race": 0,
+    "color_index": 27
+  },
+  {
+    "name": "邗",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "莒",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "己",
+    "race": 3,
+    "color_index": 13
+  },
+  {
+    "name": "夷",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "妘",
+    "race": 3,
+    "color_index": 14
+  },
+  {
+    "name": "莱",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "子",
+    "race": 4,
+    "color_index": 15
+  },
+  {
+    "name": "纪",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姜",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "淳于",
+    "official_name": "",
+    "alias": "州",
+    "nobility": "公",
+    "family_name": "姜",
+    "race": 0,
+    "color_index": 17
+  },
+  {
+    "name": "中山",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 5,
+    "color_index": 18
+  },
+  {
+    "name": "邢",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "邶",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "子",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "孤竹",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "子",
+    "race": 6,
+    "color_index": 21
+  },
+  {
+    "name": "箕",
+    "official_name": "",
+    "alias": "箕子朝鲜",
+    "nobility": "侯",
+    "family_name": "子",
+    "race": 0,
+    "color_index": 22
+  },
+  {
+    "name": "褒",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "姒",
+    "race": 0,
+    "color_index": 13
+  },
+  {
+    "name": "庸",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 24
+  },
+  {
+    "name": "巴",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 25
+  },
+  {
+    "name": "鱼",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "兒",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "蜀",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "杜",
+    "race": 0,
+    "color_index": 27
+  },
+  {
+    "name": "申",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "姜",
+    "race": 0,
+    "color_index": 26
+  },
+  {
+    "name": "邓",
+    "official_name": "",
+    "alias": "",
+    "nobility": "侯",
+    "family_name": "曼",
+    "race": 0,
+    "color_index": 23
+  },
+  {
+    "name": "曾",
+    "official_name": "",
+    "alias": "随",
+    "nobility": "侯",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 14
+  },
+  {
+    "name": "鄾",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "曼",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "夔",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "芈",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "舒",
+    "official_name": "",
+    "alias": "",
+    "nobility": "子",
+    "family_name": "偃",
+    "race": 0,
+    "color_index": 17
+  },
+  {
+    "name": "巢",
+    "official_name": "",
+    "alias": "",
+    "nobility": "伯",
+    "family_name": "偃",
+    "race": 0,
+    "color_index": 18
+  },
+  {
+    "name": "奄",
+    "official_name": "",
+    "alias": "",
+    "nobility": "公",
+    "family_name": "子",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "鲜虞",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 5,
+    "color_index": 0
+  },
+  {
+    "name": "代",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 5,
+    "color_index": 0
+  },
+  {
+    "name": "赤狄",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 7,
+    "color_index": 0
+  },
+  {
+    "name": "令支",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 6,
+    "color_index": 0
+  },
+  {
+    "name": "无终",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 6,
+    "color_index": 0
+  },
+  {
+    "name": "楼烦",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 8,
+    "color_index": 0
+  },
+  {
+    "name": "林胡",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 8,
+    "color_index": 0
+  },
+  {
+    "name": "义渠",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 8,
+    "color_index": 0
+  },
+  {
+    "name": "白马氐",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 9,
+    "color_index": 0
+  },
+  {
+    "name": "西戎",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 8,
+    "color_index": 0
+  },
+  {
+    "name": "匈奴",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 10,
+    "color_index": 0
+  },
+  {
+    "name": "邛都",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 11,
+    "color_index": 0
+  },
+  {
+    "name": "僰",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 12,
+    "color_index": 0
+  },
+  {
+    "name": "夜郎",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 13,
+    "color_index": 0
+  },
+  {
+    "name": "滇",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 13,
+    "color_index": 0
+  },
+  {
+    "name": "扬越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 1,
+    "color_index": 0
+  },
+  {
+    "name": "瓯越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 1,
+    "color_index": 0
+  },
+  {
+    "name": "闽越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 1,
+    "color_index": 0
+  },
+  {
+    "name": "南越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 1,
+    "color_index": 0
+  },
+  {
+    "name": "雒越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 1,
+    "color_index": 0
+  },
+  {
+    "name": "苴",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "杜",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "东胡",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 14,
+    "color_index": 0
+  },
+  {
+    "name": "赵",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "赢",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "魏",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "韩",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "姬",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "西楚",
+    "official_name": "",
+    "alias": "",
+    "nobility": "霸王",
+    "family_name": "项",
+    "race": 0,
+    "color_index": 3
+  },
+  {
+    "name": "汉",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "九江",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "英",
+    "race": 0,
+    "color_index": 14
+  },
+  {
+    "name": "塞",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "司马",
+    "race": 0,
+    "color_index": 13
+  },
+  {
+    "name": "翟",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "董",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "西魏",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "魏",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "河南",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "申",
+    "race": 0,
+    "color_index": 12
+  },
+  {
+    "name": "韩",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "韩",
+    "race": 0,
+    "color_index": 26
+  },
+  {
+    "name": "殷",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "司马",
+    "race": 0,
+    "color_index": 22
+  },
+  {
+    "name": "赵",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "赵",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "衡山",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "吴",
+    "race": 0,
+    "color_index": 21
+  },
+  {
+    "name": "临江",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "共",
+    "race": 0,
+    "color_index": 25
+  },
+  {
+    "name": "燕",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "臧",
+    "race": 0,
+    "color_index": 4
+  },
+  {
+    "name": "齐",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "田",
+    "race": 0,
+    "color_index": 2
+  },
+  {
+    "name": "雍",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "章",
+    "race": 0,
+    "color_index": 5
+  },
+  {
+    "name": "南越",
+    "official_name": "",
+    "alias": "",
+    "nobility": "王",
+    "family_name": "赵",
+    "race": 0,
+    "color_index": 18
+  },
+  {
+    "name": "王陵",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "月氏",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 15,
+    "color_index": 0
+  },
+  {
+    "name": "新",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "王",
+    "race": 0,
+    "color_index": 5
+  },
+  {
+    "name": "更始",
+    "official_name": "汉",
+    "alias": "玄汉",
+    "nobility": "",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 7
+  },
+  {
+    "name": "王郎",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "王",
+    "race": 0,
+    "color_index": 11
+  },
+  {
+    "name": "张步",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "张",
+    "race": 0,
+    "color_index": 2
+  },
+  {
+    "name": "赤眉",
+    "official_name": "汉",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 8
+  },
+  {
+    "name": "刘永",
+    "official_name": "梁",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 3
+  },
+  {
+    "name": "李宪",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "李",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "秦丰",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "秦",
+    "race": 0,
+    "color_index": 16
+  },
+  {
+    "name": "田戎",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "田",
+    "race": 0,
+    "color_index": 23
+  },
+  {
+    "name": "卢芳",
+    "official_name": "汉",
+    "alias": "",
+    "nobility": "",
+    "family_name": "卢",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "隗囂",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "隗",
+    "race": 0,
+    "color_index": 26
+  },
+  {
+    "name": "窦融",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "窦",
+    "race": 0,
+    "color_index": 13
+  },
+  {
+    "name": "公孙述",
+    "official_name": "成家",
+    "alias": "",
+    "nobility": "",
+    "family_name": "公孙",
+    "race": 0,
+    "color_index": 6
+  },
+  {
+    "name": "任贵",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "任",
+    "race": 0,
+    "color_index": 18
+  },
+  {
+    "name": "句町",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 13,
+    "color_index": 4
+  },
+  {
+    "name": "邓让",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "让",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "王调",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "王",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "高句丽",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 16,
+    "color_index": 0
+  },
+  {
+    "name": "魏",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "曹",
+    "race": 0,
+    "color_index": 10
+  },
+  {
+    "name": "蜀",
+    "official_name": "汉",
+    "alias": "蜀汉",
+    "nobility": "",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 19
+  },
+  {
+    "name": "吴",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "孙",
+    "race": 0,
+    "color_index": 11
+  },
+  {
+    "name": "袁绍",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "袁",
+    "race": 0,
+    "color_index": 2
+  },
+  {
+    "name": "袁术",
+    "official_name": "仲家",
+    "alias": "",
+    "nobility": "",
+    "family_name": "袁",
+    "race": 0,
+    "color_index": 7
+  },
+  {
+    "name": "公孙瓒",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "公孙",
+    "race": 0,
+    "color_index": 8
+  },
+  {
+    "name": "公孙度",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "公孙",
+    "race": 0,
+    "color_index": 3
+  },
+  {
+    "name": "孔融",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "孔",
+    "race": 0,
+    "color_index": 24
+  },
+  {
+    "name": "臧霸",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "臧",
+    "race": 0,
+    "color_index": 22
+  },
+  {
+    "name": "吕布",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "吕",
+    "race": 0,
+    "color_index": 5
+  },
+  {
+    "name": "严白虎",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "严",
+    "race": 0,
+    "color_index": 17
+  },
+  {
+    "name": "刘繇",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 14
+  },
+  {
+    "name": "王朗",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "王",
+    "race": 0,
+    "color_index": 13
+  },
+  {
+    "name": "士燮",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "士",
+    "race": 0,
+    "color_index": 12
+  },
+  {
+    "name": "刘表",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 6
+  },
+  {
+    "name": "刘璋",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "刘",
+    "race": 0,
+    "color_index": 15
+  },
+  {
+    "name": "张鲁",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "张",
+    "race": 0,
+    "color_index": 20
+  },
+  {
+    "name": "李傕",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 21
+  },
+  {
+    "name": "马腾",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 0,
+    "color_index": 1
+  },
+  {
+    "name": "张扬",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "张",
+    "race": 0,
+    "color_index": 25
+  },
+  {
+    "name": "张绣",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "张",
+    "race": 0,
+    "color_index": 18
+  },
+  {
+    "name": "东羌",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 12,
+    "color_index": 0
+  },
+  {
+    "name": "林邑",
+    "official_name": "",
+    "alias": "",
+    "nobility": "",
+    "family_name": "",
+    "race": 17,
+    "color_index": 0
+  }
+]

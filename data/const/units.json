@@ -1,0 +1,562 @@
+[
+  {
+    "name": "青铜戈",
+    "type": "MELEE",
+    "attack": 1,
+    "defend": 2,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 1,
+      "gold": 1,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "青铜剑",
+    "type": "MELEE",
+    "attack": 2,
+    "defend": 2,
+    "speed_multiplier": 1.2,
+    "cost": {
+      "food": 0,
+      "hammer": 3,
+      "gold": 2,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "复合剑",
+    "type": "MELEE",
+    "attack": 3,
+    "defend": 2,
+    "speed_multiplier": 1.2,
+    "cost": {
+      "food": 0,
+      "hammer": 4,
+      "gold": 2,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "青铜矛",
+    "type": "MELEE",
+    "attack": 3,
+    "defend": 3,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 4,
+      "gold": 3,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "铁剑",
+    "type": "MELEE",
+    "attack": 4,
+    "defend": 4,
+    "speed_multiplier": 1.2,
+    "cost": {
+      "food": 0,
+      "hammer": 6,
+      "gold": 4,
+      "horse": 0,
+      "iron": 2
+    }
+  },
+  {
+    "name": "铁矛",
+    "type": "MELEE",
+    "attack": 5,
+    "defend": 6,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 8,
+      "gold": 6,
+      "horse": 0,
+      "iron": 2
+    }
+  },
+  {
+    "name": "环首刀",
+    "type": "MELEE",
+    "attack": 6,
+    "defend": 6,
+    "speed_multiplier": 1.2,
+    "cost": {
+      "food": 0,
+      "hammer": 10,
+      "gold": 8,
+      "horse": 0,
+      "iron": 4
+    }
+  },
+  {
+    "name": "铁枪",
+    "type": "MELEE",
+    "attack": 7,
+    "defend": 8,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 12,
+      "gold": 10,
+      "horse": 0,
+      "iron": 5
+    }
+  },
+  {
+    "name": "钩镰枪",
+    "type": "MELEE",
+    "attack": 8,
+    "defend": 10,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 15,
+      "gold": 12,
+      "horse": 0,
+      "iron": 6
+    }
+  },
+  {
+    "name": "长柄刀",
+    "type": "MELEE",
+    "attack": 9,
+    "defend": 10,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 15,
+      "gold": 12,
+      "horse": 0,
+      "iron": 8
+    }
+  },
+  {
+    "name": "弓",
+    "type": "ARCHERY",
+    "attack": 2,
+    "defend": 1,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 1,
+      "gold": 1,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "青铜弩",
+    "type": "ARCHERY",
+    "attack": 3,
+    "defend": 1,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 4,
+      "gold": 2,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "铁弩",
+    "type": "ARCHERY",
+    "attack": 4,
+    "defend": 2,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 6,
+      "gold": 4,
+      "horse": 0,
+      "iron": 1
+    }
+  },
+  {
+    "name": "连弩",
+    "type": "ARCHERY",
+    "attack": 5,
+    "defend": 3,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 9,
+      "gold": 6,
+      "horse": 0,
+      "iron": 3
+    }
+  },
+  {
+    "name": "腰张弩",
+    "type": "ARCHERY",
+    "attack": 6,
+    "defend": 4,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 10,
+      "gold": 8,
+      "horse": 0,
+      "iron": 3
+    }
+  },
+  {
+    "name": "神臂弓",
+    "type": "ARCHERY",
+    "attack": 7,
+    "defend": 5,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 12,
+      "gold": 10,
+      "horse": 0,
+      "iron": 3
+    }
+  },
+  {
+    "name": "突火枪",
+    "type": "ARCHERY",
+    "attack": 8,
+    "defend": 7,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 15,
+      "gold": 15,
+      "horse": 0,
+      "iron": 4
+    }
+  },
+  {
+    "name": "火铳",
+    "type": "ARCHERY",
+    "attack": 10,
+    "defend": 8,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 16,
+      "gold": 16,
+      "horse": 0,
+      "iron": 5
+    }
+  },
+  {
+    "name": "鸟铳",
+    "type": "ARCHERY",
+    "attack": 12,
+    "defend": 9,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 18,
+      "gold": 18,
+      "horse": 0,
+      "iron": 6
+    }
+  },
+  {
+    "name": "燧发枪",
+    "type": "ARCHERY",
+    "attack": 14,
+    "defend": 10,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 20,
+      "gold": 20,
+      "horse": 0,
+      "iron": 6
+    }
+  },
+  {
+    "name": "双轮战车",
+    "type": "MOUNTED",
+    "attack": 2,
+    "defend": 2,
+    "speed_multiplier": 0.6,
+    "cost": {
+      "food": 0,
+      "hammer": 2,
+      "gold": 2,
+      "horse": 1,
+      "iron": 0
+    }
+  },
+  {
+    "name": "驷马战车",
+    "type": "MOUNTED",
+    "attack": 2,
+    "defend": 3,
+    "speed_multiplier": 0.8,
+    "cost": {
+      "food": 0,
+      "hammer": 3,
+      "gold": 3,
+      "horse": 1,
+      "iron": 0
+    }
+  },
+  {
+    "name": "弓骑兵",
+    "type": "MOUNTED",
+    "attack": 3,
+    "defend": 2,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 5,
+      "gold": 5,
+      "horse": 2,
+      "iron": 0
+    }
+  },
+  {
+    "name": "轻骑兵",
+    "type": "MOUNTED",
+    "attack": 3,
+    "defend": 3,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 8,
+      "gold": 8,
+      "horse": 2,
+      "iron": 1
+    }
+  },
+  {
+    "name": "突骑兵",
+    "type": "MOUNTED",
+    "attack": 4,
+    "defend": 4,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 10,
+      "gold": 15,
+      "horse": 2,
+      "iron": 2
+    }
+  },
+  {
+    "name": "重装骑兵",
+    "type": "MOUNTED",
+    "attack": 6,
+    "defend": 6,
+    "speed_multiplier": 0.8,
+    "cost": {
+      "food": 0,
+      "hammer": 15,
+      "gold": 15,
+      "horse": 2,
+      "iron": 6
+    }
+  },
+  {
+    "name": "唐代轻骑",
+    "type": "MOUNTED",
+    "attack": 7,
+    "defend": 5,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 16,
+      "gold": 18,
+      "horse": 2,
+      "iron": 6
+    }
+  },
+  {
+    "name": "铁浮图",
+    "type": "MOUNTED",
+    "attack": 8,
+    "defend": 8,
+    "speed_multiplier": 0.6,
+    "cost": {
+      "food": 0,
+      "hammer": 20,
+      "gold": 25,
+      "horse": 2,
+      "iron": 10
+    }
+  },
+  {
+    "name": "明代重骑",
+    "type": "MOUNTED",
+    "attack": 8,
+    "defend": 9,
+    "speed_multiplier": 0.6,
+    "cost": {
+      "food": 0,
+      "hammer": 25,
+      "gold": 30,
+      "horse": 2,
+      "iron": 10
+    }
+  },
+  {
+    "name": "满洲重骑",
+    "type": "MOUNTED",
+    "attack": 9,
+    "defend": 9,
+    "speed_multiplier": 0.8,
+    "cost": {
+      "food": 0,
+      "hammer": 30,
+      "gold": 30,
+      "horse": 2,
+      "iron": 12
+    }
+  },
+  {
+    "name": "冲车",
+    "type": "SIEGE",
+    "attack": 0,
+    "defend": 2,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 1,
+      "gold": 1,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "云梯",
+    "type": "SIEGE",
+    "attack": 0,
+    "defend": 3,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 2,
+      "gold": 2,
+      "horse": 0,
+      "iron": 0
+    }
+  },
+  {
+    "name": "床弩",
+    "type": "SIEGE",
+    "attack": 4,
+    "defend": 4,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 4,
+      "gold": 4,
+      "horse": 0,
+      "iron": 1
+    }
+  },
+  {
+    "name": "投石机",
+    "type": "SIEGE",
+    "attack": 5,
+    "defend": 5,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 5,
+      "gold": 5,
+      "horse": 0,
+      "iron": 2
+    }
+  },
+  {
+    "name": "巨型抛石机",
+    "type": "SIEGE",
+    "attack": 6,
+    "defend": 6,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 8,
+      "gold": 8,
+      "horse": 0,
+      "iron": 3
+    }
+  },
+  {
+    "name": "火砲",
+    "type": "SIEGE",
+    "attack": 8,
+    "defend": 6,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 10,
+      "gold": 10,
+      "horse": 0,
+      "iron": 4
+    }
+  },
+  {
+    "name": "回回砲",
+    "type": "SIEGE",
+    "attack": 9,
+    "defend": 6,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 12,
+      "gold": 12,
+      "horse": 0,
+      "iron": 5
+    }
+  },
+  {
+    "name": "碗口銃",
+    "type": "SIEGE",
+    "attack": 10,
+    "defend": 8,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 15,
+      "gold": 20,
+      "horse": 0,
+      "iron": 10
+    }
+  },
+  {
+    "name": "虎蹲砲",
+    "type": "SIEGE",
+    "attack": 15,
+    "defend": 10,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 30,
+      "gold": 40,
+      "horse": 0,
+      "iron": 30
+    }
+  },
+  {
+    "name": "红衣大炮",
+    "type": "SIEGE",
+    "attack": 20,
+    "defend": 10,
+    "speed_multiplier": 1.0,
+    "cost": {
+      "food": 0,
+      "hammer": 80,
+      "gold": 60,
+      "horse": 0,
+      "iron": 40
+    }
+  }
+]
